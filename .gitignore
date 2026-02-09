@@ -146,4 +146,5 @@ vis/
 tmp/
 
 # pretrained weight
+weights/
 weights
