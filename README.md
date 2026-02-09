@@ -7,3 +7,7 @@ This project is developed by:
 - **Heejun Park** (Division of Future Vehicle)  
 - **Jinsu Ra** (Division of Future Vehicle)  
 - **Yubin Lee** (CCS Graduate School of Mobility)  
+
+## 
+Download pretrained weight and place it in:
+weights/groundingdino_swint_ogc.pth
