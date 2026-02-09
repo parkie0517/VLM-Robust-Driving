@@ -1,0 +1,44 @@
+[
+    {
+        "r": 0.5,
+        "dot": {
+            "vertical_distance_px": 24,
+            "horizontal_distance_px": 0.0
+        }
+    },
+    {
+        "r": 1.0,
+        "dot": {
+            "vertical_distance_px": 38,
+            "horizontal_distance_px": 2.0
+        }
+    },
+    {
+        "r": 1.5,
+        "dot": {
+            "vertical_distance_px": 46,
+            "horizontal_distance_px": 3.0
+        }
+    },
+    {
+        "r": 2.0,
+        "dot": {
+            "vertical_distance_px": 51,
+            "horizontal_distance_px": 4.0
+        }
+    },
+    {
+        "r": 2.5,
+        "dot": {
+            "vertical_distance_px": 54,
+            "horizontal_distance_px": 3.0
+        }
+    },
+    {
+        "r": 3.0,
+        "dot": {
+            "vertical_distance_px": 56,
+            "horizontal_distance_px": 4.0
+        }
+    }
+]

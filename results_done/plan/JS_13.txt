@@ -1,0 +1,2 @@
+decision: change_left_lane
+refined_points: [[541, 665], [478, 635], [444, 608], [443, 587], [454, 579], [465, 571]]

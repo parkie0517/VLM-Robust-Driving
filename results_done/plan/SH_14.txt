@@ -1,0 +1,2 @@
+decision: change_right_lane
+refined_points: [[739, 665], [802, 635], [836, 608], [837, 587], [826, 579], [815, 571]]
