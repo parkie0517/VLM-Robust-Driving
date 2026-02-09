@@ -11,3 +11,8 @@ This project is developed by:
 ## 
 Download pretrained weight and place it in:
 weights/groundingdino_swint_ogc.pth
+
+## Acknowledgement
+Many thanks to these excellent open source projects:
+
+-  [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
