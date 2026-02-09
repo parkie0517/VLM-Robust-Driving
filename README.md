@@ -8,9 +8,13 @@ This project is developed by:
 - **Jinsu Ra** (Division of Future Vehicle)  
 - **Yubin Lee** (CCS Graduate School of Mobility)  
 
-## 
-Download pretrained weight and place it in:
-weights/groundingdino_swint_ogc.pth
+## Download pretrained weight
+```
+mkdir weights
+cd weights
+wget -q https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth
+cd ..
+```
 
 ## Acknowledgement
 Many thanks to these excellent open source projects:
